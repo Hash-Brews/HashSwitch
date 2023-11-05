@@ -15,7 +15,7 @@ HashSwitch is a custom firmware for the Nintendo Switch that allows you to run H
 
 **Installation:**
 
-1. Download the HashSwitch custom firmware from the [GitHub repository](https://github.com/PuppyStudios1/HashBrew).
+1. Download the HashSwitch custom firmware from the [GitHub Release](https://github.com/PuppyStudios1/HashSwitch).
 2. Extract the HashSwitch custom firmware to the root directory of your micro SD card.
 3. Boot your Nintendo Switch console into RCM mode.
 4. Inject the HashSwitch custom firmware using a payload injector such as [Hekate](https://github.com/CTCaer/hekate) or [TegraRcmGUI](https://github.com/Mariko-Team/TegraRcmGUI).
